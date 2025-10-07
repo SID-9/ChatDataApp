@@ -2,7 +2,8 @@
 import streamlit as st
 import requests
 
-API_BASE = "http://localhost:8000/api"
+#API_BASE = "http://localhost:8000/api"
+API_BASE = "https://chatdataapp.onrender.com/api"
 
 st.set_page_config(page_title="Entity Extractor", layout="centered")
 st.title("🧠 Entity Extractor (spaCy Model)")
