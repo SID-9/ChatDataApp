@@ -63,12 +63,3 @@ python run_app.py
 * Training is not required for end users
 
 ---
-
-## License
-
-MIT License
-
----
-
-If you want, I can also make an **even shorter 10–15 line version** that’s ultra-minimal for GitHub repos.
-Do you want me to do that?
